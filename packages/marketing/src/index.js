@@ -1,2 +1,2 @@
 import('./bootstrap')
-console.log("start call marketing app")
+console.log("start call marketing app ...")
